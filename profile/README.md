@@ -1,6 +1,6 @@
 
 ![Banner](https://github.com/user-attachments/assets/5bd65c36-a64c-4baf-a503-5d938bb6eabb)
-# Macroact Lab (매크로액트 연구소)
+# 매크로액트 연구소
 > **"실용 로봇공학" 독자 및 개발자를 위한 공식 오픈소스 라이브러리입니다.**
 
 ---

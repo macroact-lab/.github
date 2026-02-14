@@ -1,4 +1,4 @@
-# 🤖 Macroact Lab (매크로액트 연구소)
+# Macroact Lab (매크로액트 연구소)
 > **"실용 로봇공학" 독자 및 개발자를 위한 공식 오픈소스 라이브러리입니다.**
 
 ---
@@ -10,14 +10,13 @@
 
 ### 🛠 Tech Stack
 ![ROS2](https://img.shields.io/badge/ROS2-Humble-blue?logo=ros) 
-![Python](https://img.shields.io/badge/Python-3.10+-yellow?logo=python)
+![Python](https://img.shields.io/badge/Python-3.9+-yellow?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red?logo=pytorch)
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
 
 ### 📢 독자 기술 지원
 *   **공식 홈페이지:** [macroact.com](https://macroact.com)
-*   **이메일 문의:** contact@macroact.com
-*   **유튜브 채널:** [Maicat TV](https://youtube.com/...)
+*   **이메일 문의:** info@macroact.com
 
 ---
 *주식회사 매크로액트는 인간과 로봇이 공존하는 미래를 설계합니다.*

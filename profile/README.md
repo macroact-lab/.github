@@ -17,7 +17,7 @@
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
 
 ### 📢 독자 기술 지원
-*   **공식 홈페이지:** [macroact.com](https://macroact.com)
+*   **공식 홈페이지:** [github.com/macroact-lab]([https://macroact.com](https://github.com/macroact-lab))
 *   **이메일 문의:** info@macroact.com
 
 ---

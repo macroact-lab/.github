@@ -17,8 +17,8 @@
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
 
 ### 순서
-1. [로봇 준비](https://github.com/macroact-lab/robot-preparation/README.md)
-2. [실용 로봇공학](https://github.com/macroact-lab/robotics-book/README.md)
+1. [로봇 준비](https://github.com/macroact-lab/robot-preparation/blob/main/README.md)
+2. [실용 로봇공학](https://github.com/macroact-lab/robotics-book/blob/main/README.md)
 
 &nbsp;
 ### 📢 독자 기술 지원

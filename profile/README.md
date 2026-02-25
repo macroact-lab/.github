@@ -16,7 +16,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red?logo=pytorch)
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
 
-### 순서
+### ✅ 순서
 1. [로봇 준비](https://github.com/macroact-lab/robot-preparation/blob/main/README.md)
 2. [실용 로봇공학](https://github.com/macroact-lab/robotics-book/blob/main/README.md)
 

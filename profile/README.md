@@ -18,8 +18,8 @@
 
 &nbsp;
 ### 순서
-1. [로봇 준비](robot-preparation/README.md)
-2. [실용 로봇공학](robotics-book/README.md)
+1. [로봇 준비](https://github.com/macroact-lab/robot-preparation/README.md)
+2. [실용 로봇공학](https://github.com/macroact-lab/robotics-book/README.md)
 
 
 ### 📢 독자 기술 지원

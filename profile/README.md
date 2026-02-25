@@ -16,6 +16,12 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red?logo=pytorch)
 ![C++](https://img.shields.io/badge/C++-17-blue?logo=cplusplus)
 
+&nbsp;
+### 순서
+1. [로봇 준비](robot-prepare/README.md)
+2. [실용 로봇공학](robotics-book/README.md)
+
+
 ### 📢 독자 기술 지원
 *   **공식 홈페이지:** [github.com/macroact-lab](https://github.com/macroact-lab)
 *   **이메일 문의:** info@macroact.com

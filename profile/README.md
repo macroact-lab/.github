@@ -18,7 +18,7 @@
 
 &nbsp;
 ### 순서
-1. [로봇 준비](robot-prepare/README.md)
+1. [로봇 준비](robot-preparation/README.md)
 2. [실용 로봇공학](robotics-book/README.md)
 
 

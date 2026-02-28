@@ -7,7 +7,7 @@
 ### 📖 도서 및 로봇 구매
 [![교보문고](https://img.shields.io/badge/교보문고-5E9025?style=for-the-badge&logoColor=white)](https://search.kyobobook.co.kr/search?keyword=S000219337992)
 [![나라장터](https://img.shields.io/badge/나라장터_(종합쇼핑몰)-00488F?style=for-the-badge&logoColor=white)](https://shop.g2b.go.kr/link/GMSF001_01/?ctrtItemMngNo=0024E0139_1000000001)
-[![학교장터](https://img.shields.io/badge/학교장터_(에듀테크)-ED7200?style=for-the-badge&logoColor=white)](https://s2b.kr/Edutech/product/productDetail.do?estimatecode=202511285519684)
+[![학교장터](https://img.shields.io/badge/학교장터_(S2B)-ED7200?style=for-the-badge&logoColor=white)](https://www.s2b.kr/S2BNCustomer/rema100No.do?forwardName=detail&f_re_estimate_code=202410209736152)
 
 ### 📚 주요 교재 및 프로젝트
 *   **[실용 로봇공학]** : ROS2와 강화학습으로 완성하는 적응형 로봇 (2026 출간)
